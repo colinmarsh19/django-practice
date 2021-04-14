@@ -7,3 +7,27 @@
 .bigbrand {
   font-size: 1.5em;
 }
+
+.centerstage {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.postdate {
+  text-align: center;
+}
+
+.posttitle {
+  font-family: 'Roboto',sans-serif;
+  font-size: 3em;
+  text-align: center;
+}
+
+.postcontent {
+  font-family: 'Montserrat';
+}
+
+.btn-comment {
+  position: absolute;
+  right: 0px;
+}
